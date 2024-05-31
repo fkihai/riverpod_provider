@@ -1,6 +1,10 @@
 # riverpod_provider
 
-A new Flutter project.
+implement :
+
+- Clean Architecture Feature First by [codeWithAndrea](https://codewithandrea.com/)
+- State Management Riverpod Provider
+- Gorouter
 
 ## Getting Started
 
