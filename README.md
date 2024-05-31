@@ -1,6 +1,6 @@
 # riverpod_provider
 
-implement :
+implemented :
 
 - Clean Architecture Feature First by [codeWithAndrea](https://codewithandrea.com/)
 - State Management Riverpod Provider
